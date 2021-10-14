@@ -1,1 +1,1 @@
-# LogginMiddlewareSample
+# LoggingMiddlewareSample
